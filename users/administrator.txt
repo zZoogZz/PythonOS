@@ -1,0 +1,4 @@
+user: administrator
+usename: Admin
+password: password
+privlages: 1
