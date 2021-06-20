@@ -1,0 +1,5 @@
+users:
+  administrator:
+    fullname: administrator
+    password: password
+    privlages: 1
